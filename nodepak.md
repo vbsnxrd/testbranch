@@ -1,0 +1,9 @@
+npm i express
+npm i ejs
+npm i mustache
+npm i mysql2
+npm i mysqlconnector
+npm i express-myconnection
+npm i express-handlebars
+npm i express-session
+npm i express-basic-auth
